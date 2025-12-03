@@ -17,7 +17,7 @@
  Chrome Browser  Latest ✅                    
  ChromeDriver    Must match Chrome version ✅ 
 
-3. Add Libraries
+3. Add Libraries(pom.xml)
    <dependencies>
     <!-- TestNG -->
     <dependency>
