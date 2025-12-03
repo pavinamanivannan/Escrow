@@ -1,12 +1,13 @@
 
-/FlipkartAutomation
-│── src/
-│    └── test/
-│         └── java/
-│              └── flipkart/
-│                   └── Script_FlipkartProject.java
-│── Screenshots/
-│       ├── result.png
+/FlipkartAutomation 
+--> src/
+----->test/
+--_--->java/
+------->flipkart/
+---------> Script_FlipkartProject.java
+folders
+----->Screenshots/
+--------> result.png
 
 Requirement        	Version
 ----------	  	--------
