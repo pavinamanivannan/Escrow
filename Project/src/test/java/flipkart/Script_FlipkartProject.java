@@ -116,7 +116,7 @@ public class Script_FlipkartProject {
 
 	         TakesScreenshot ts = (TakesScreenshot) driver;
 	         File temp = ts.getScreenshotAs(OutputType.FILE);
-	         File perm = new File("./Screenshots/result.png");
+	         File perm = new File("./Screenshot/result.png");
 	         FileHandler.copy(temp, perm);
 	         System.out.println("Screenshot is saved into screenshot folder");
 	         driver.quit();
@@ -130,7 +130,7 @@ public class Script_FlipkartProject {
 			//take screenshot of the page
 			TakesScreenshot ts = (TakesScreenshot)driver;
 			File temp = ts.getScreenshotAs(OutputType.FILE);
-			File perm = new File("./Screenshots/cart_result.png");
+			File perm = new File("./Screenshot/cart_result.png");
 			FileHandler.copy(temp, perm);
 			System.out.println("Screenshot is saved into screenshot folder");
 			driver.quit();
