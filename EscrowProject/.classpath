@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/classes" path="src/main/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="optional" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/test-classes" path="src/test/resources">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="optional" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/selenium-server-4.38.0/guava-33.5.0-jre.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/selenium-server-4.38.0/guava-33.5.0-jre-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/selenium-server-4.38.0/j2objc-annotations-3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/selenium-server-4.38.0/j2objc-annotations-3.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/selenium-server-4.38.0/java-dataloader-5.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/selenium-server-4.38.0/java-dataloader-5.0.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/selenium-server-4.38.0/jcommander-1.82.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/selenium-server-4.38.0/jcommander-1.82-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/selenium-server-4.38.0/jeromq-0.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/selenium-server-4.38.0/jeromq-0.6.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/selenium-server-4.38.0/jnacl-1.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/selenium-server-4.38.0/jnacl-1.0.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/selenium-server-4.38.0/jspecify-1.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/selenium-server-4.38.0/jspecify-1.0.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/selenium-server-4.38.0/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/selenium-server-4.38.0/netty-buffer-4.2.7.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/selenium-server-4.38.0/netty-buffer-4.2.7.Final-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/selenium-server-4.38.0/netty-codec-base-4.2.7.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/selenium-server-4.38.0/netty-codec-base-4.2.7.Final-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/selenium-server-4.38.0/netty-codec-compression-4.2.7.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/selenium-server-4.38.0/netty-codec-compression-4.2.7.Final-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/selenium-server-4.38.0/netty-codec-http-4.2.7.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/selenium-server-4.38.0/netty-codec-http-4.2.7.Final-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/selenium-server-4.38.0/netty-common-4.2.7.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/selenium-server-4.38.0/netty-common-4.2.7.Final-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/selenium-server-4.38.0/netty-handler-4.2.7.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/selenium-server-4.38.0/netty-handler-4.2.7.Final-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/selenium-server-4.38.0/netty-resolver-4.2.7.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/selenium-server-4.38.0/netty-resolver-4.2.7.Final-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/selenium-server-4.38.0/netty-transport-4.2.7.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/selenium-server-4.38.0/netty-transport-4.2.7.Final-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/selenium-server-4.38.0/netty-transport-native-unix-common-4.2.7.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/selenium-server-4.38.0/netty-transport-native-unix-common-4.2.7.Final-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/selenium-server-4.38.0/opentelemetry-api-1.55.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/selenium-server-4.38.0/opentelemetry-api-1.55.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/selenium-server-4.38.0/opentelemetry-common-1.55.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/selenium-server-4.38.0/opentelemetry-common-1.55.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/selenium-server-4.38.0/opentelemetry-context-1.55.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/selenium-server-4.38.0/opentelemetry-context-1.55.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/selenium-server-4.38.0/opentelemetry-exporter-logging-1.55.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/selenium-server-4.38.0/opentelemetry-exporter-logging-1.55.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/selenium-server-4.38.0/opentelemetry-sdk-1.55.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/selenium-server-4.38.0/opentelemetry-sdk-1.55.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/selenium-server-4.38.0/opentelemetry-sdk-common-1.55.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/selenium-server-4.38.0/opentelemetry-sdk-common-1.55.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/selenium-server-4.38.0/opentelemetry-sdk-extension-autoconfigure-1.55.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/selenium-server-4.38.0/opentelemetry-sdk-extension-autoconfigure-1.55.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/selenium-server-4.38.0/opentelemetry-sdk-extension-autoconfigure-spi-1.55.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/selenium-server-4.38.0/opentelemetry-sdk-extension-autoconfigure-spi-1.55.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/selenium-server-4.38.0/opentelemetry-sdk-logs-1.55.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/selenium-server-4.38.0/opentelemetry-sdk-logs-1.55.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/selenium-server-4.38.0/opentelemetry-sdk-metrics-1.55.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/selenium-server-4.38.0/opentelemetry-sdk-metrics-1.55.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/selenium-server-4.38.0/opentelemetry-sdk-trace-1.55.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/selenium-server-4.38.0/opentelemetry-sdk-trace-1.55.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/selenium-server-4.38.0/reactive-streams-1.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/selenium-server-4.38.0/reactive-streams-1.0.3-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/selenium-server-4.38.0/selenium-api-4.38.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/selenium-server-4.38.0/selenium-api-4.38.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/selenium-server-4.38.0/selenium-chrome-driver-4.38.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/selenium-server-4.38.0/selenium-chrome-driver-4.38.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/selenium-server-4.38.0/selenium-chromium-driver-4.38.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/selenium-server-4.38.0/selenium-chromium-driver-4.38.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/selenium-server-4.38.0/selenium-edge-driver-4.38.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/selenium-server-4.38.0/selenium-edge-driver-4.38.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/selenium-server-4.38.0/selenium-firefox-driver-4.38.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/selenium-server-4.38.0/selenium-firefox-driver-4.38.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/selenium-server-4.38.0/selenium-grid-4.38.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/selenium-server-4.38.0/selenium-grid-4.38.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/selenium-server-4.38.0/selenium-http-4.38.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/selenium-server-4.38.0/selenium-http-4.38.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/selenium-server-4.38.0/selenium-ie-driver-4.38.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/selenium-server-4.38.0/selenium-ie-driver-4.38.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/selenium-server-4.38.0/selenium-json-4.38.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/selenium-server-4.38.0/selenium-json-4.38.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/selenium-server-4.38.0/selenium-manager-4.38.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/selenium-server-4.38.0/selenium-manager-4.38.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/selenium-server-4.38.0/selenium-os-4.38.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/selenium-server-4.38.0/selenium-os-4.38.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/selenium-server-4.38.0/selenium-remote-driver-4.38.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/selenium-server-4.38.0/selenium-remote-driver-4.38.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/selenium-server-4.38.0/selenium-safari-driver-4.38.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/selenium-server-4.38.0/selenium-safari-driver-4.38.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/selenium-server-4.38.0/selenium-support-4.38.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/selenium-server-4.38.0/selenium-support-4.38.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/selenium-server-4.38.0/tomlj-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/selenium-server-4.38.0/tomlj-1.1.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/selenium-server-4.38.0/antlr4-runtime-4.11.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/selenium-server-4.38.0/antlr4-runtime-4.11.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/selenium-server-4.38.0/auto-service-annotations-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/selenium-server-4.38.0/auto-service-annotations-1.1.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/selenium-server-4.38.0/bcpkix-jdk18on-1.82.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/selenium-server-4.38.0/bcpkix-jdk18on-1.82-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/selenium-server-4.38.0/bcprov-jdk18on-1.82.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/selenium-server-4.38.0/bcprov-jdk18on-1.82-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/selenium-server-4.38.0/bcutil-jdk18on-1.82.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/selenium-server-4.38.0/bcutil-jdk18on-1.82-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/selenium-server-4.38.0/byte-buddy-1.17.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/selenium-server-4.38.0/byte-buddy-1.17.8-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/selenium-server-4.38.0/caffeine-3.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/selenium-server-4.38.0/caffeine-3.2.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/selenium-server-4.38.0/checker-qual-3.51.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/selenium-server-4.38.0/checker-qual-3.51.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/selenium-server-4.38.0/commons-exec-1.5.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/selenium-server-4.38.0/commons-exec-1.5.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/selenium-server-4.38.0/error_prone_annotations-2.41.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/selenium-server-4.38.0/error_prone_annotations-2.41.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/selenium-server-4.38.0/failsafe-3.3.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/selenium-server-4.38.0/failsafe-3.3.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/selenium-server-4.38.0/failureaccess-1.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/selenium-server-4.38.0/failureaccess-1.0.3-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/selenium-server-4.38.0/graphql-java-24.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/selenium-server-4.38.0/graphql-java-24.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/selenium-server-4.38.0/selenium-server-4.38.0.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
